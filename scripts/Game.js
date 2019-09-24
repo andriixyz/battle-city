@@ -5,7 +5,7 @@ var gameWidth = canvas.clientHeight;
 var map = new World();
 var spawnPlayer;
 var enemies = 0;
-var currentStage = 1;
+var currentStage = 0;
 var stageCount = 2;
 var gameEnd = false;
 let player;
